@@ -15,7 +15,7 @@ module.exports = function(environment) {
     * @type {Array?}
     * @default "null"
     */
-    locales: null,
+    
 
     /**
     * baseLocale is used to determine if translation keys are missing from other locales.
@@ -35,7 +35,7 @@ module.exports = function(environment) {
     * @type {Boolean}
     * @default "false"
     */
-    disablePolyfill: false,
+    
 
     /**
     * prevents the translations from being bundled with the application code.
